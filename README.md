@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @guzhaoyuan
+- 👀 I’m interested in Legged Robots.
+- 🌱 I’m currently learning Mixed Integer Programming.
+- 📫 You can reach me through guzhaoyuan14@gmail.com
