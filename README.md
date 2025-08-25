@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @guzhaoyuan
-- 👀 I’m interested in Legged Robots.
-- 🌱 I’m currently learning Mixed Integer Programming.
+- 👀 I’m interested in Humanoid Robots.
+- 🌱 I’m currently learning fine-tuning imitation learning policy.
 - 📫 You can reach me through guzhaoyuan14@gmail.com
